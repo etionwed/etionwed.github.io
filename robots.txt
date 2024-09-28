@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://etionwed.github.io/sitemap.etionwed.gz
+Sitemap: https://etionwed.github.io/app/sitemap.etionwed.gz
+Sitemap: https://etionwed.github.io/assets/sitemap.etionwed.gz
+Sitemap: https://etionwed.github.io/css/sitemap.etionwed.gz
+Sitemap: https://etionwed.github.io/data/sitemap.etionwed.gz
+Sitemap: https://etionwed.github.io/includes/sitemap.etionwed.gz
+Sitemap: https://etionwed.github.io/item/sitemap.etionwed.gz
+Sitemap: https://etionwed.github.io/src/sitemap.etionwed.gz
